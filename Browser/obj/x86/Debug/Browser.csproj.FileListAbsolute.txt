@@ -1,0 +1,10 @@
+d:\Programming\Browser\Browser\bin\x86\Debug\Browser.exe.config
+d:\Programming\Browser\Browser\bin\x86\Debug\Browser.exe
+d:\Programming\Browser\Browser\bin\x86\Debug\Browser.pdb
+d:\Programming\Browser\Browser\obj\x86\Debug\Browser.csproj.AssemblyReference.cache
+d:\Programming\Browser\Browser\obj\x86\Debug\Browser.Form1.resources
+d:\Programming\Browser\Browser\obj\x86\Debug\Browser.Properties.Resources.resources
+d:\Programming\Browser\Browser\obj\x86\Debug\Browser.csproj.GenerateResource.cache
+d:\Programming\Browser\Browser\obj\x86\Debug\Browser.csproj.CoreCompileInputs.cache
+d:\Programming\Browser\Browser\obj\x86\Debug\Browser.exe
+d:\Programming\Browser\Browser\obj\x86\Debug\Browser.pdb
